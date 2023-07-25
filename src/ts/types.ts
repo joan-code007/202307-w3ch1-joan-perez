@@ -1,7 +1,6 @@
-export type CharactersData = {
+export type CharactersDefault = {
   name: string;
   family: string;
   age: number;
-  isAlive: boolean;
   imageSource: string;
 };
