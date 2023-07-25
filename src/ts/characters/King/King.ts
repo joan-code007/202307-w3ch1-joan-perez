@@ -1,0 +1,5 @@
+class King {
+  constructor {
+    super
+  }
+}
